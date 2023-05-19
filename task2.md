@@ -23,7 +23,11 @@
 
 5. Выполнить команду:
 
+`git commit -m "init"`
+
+6. Выполнить команду:
+
 `git push -u origin feature/code-documentation`
 
-6. Убедиться, что данная ветка появилась на GitHub.
+7. Убедиться, что данная ветка появилась на GitHub.
 
